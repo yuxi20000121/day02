@@ -6,8 +6,8 @@ public class Deom01 {
 
 
         System.out.println("12");
-        System.out.println("");
-        System.out.println("");
+        System.out.println("12");
+        System.out.println("12");
 
 
     }
