@@ -13,6 +13,9 @@ public class Deom01 {
         System.out.println("分支来了");
         System.out.println("分支来了");
         System.out.println("分支来了");
-        System.out.println("分支来了");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");System.out.println("123");
+
     }
 }
